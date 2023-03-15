@@ -17,7 +17,7 @@ li {
 .navbar ul {
     margin-top: 30px;
 }
-.navbar ul:hover {
+.navbar li:hover {
     cursor: pointer;
 }
 .navbar li {
