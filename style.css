@@ -29,6 +29,7 @@ li {
         margin-top: 18px;
     }
     .navbar{
+        z-index: 1;
         background-color: black;
         position: fixed;
         bottom: 0;
